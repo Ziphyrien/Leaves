@@ -2,7 +2,7 @@ name: Leaves CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ dev/1.21.4 ]
   workflow_dispatch:
 
 jobs:
